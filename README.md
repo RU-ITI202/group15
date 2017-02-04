@@ -1,5 +1,6 @@
 # Individual-Assignment-1
 This is repository to store starter project for Individual Assignment 1
+Due date for Assignment is Feb 18 2017 9:30AM (Before our Class starts)
 
 
 ## Objective
@@ -19,7 +20,7 @@ This is repository to store starter project for Individual Assignment 1
 * You will create a basic java program to implement cashRegister with two tax category food and non-food item and it's tax
 * The program should prompt store-manager various actions he can perform on cashRegister like record food purchase, record non food purchase, user can add multiple item in register (user input part in userInputSimulator method)
 * Implement various methods shown in CashRegisterTester.java and CashRegister.java file, initialize constructor with proper values
-* Add your own test cases (atleast 2) to test functionality try entering multiple items and show expected and actual change given.
+* Add your own test cases (at least 2) to test functionality try entering multiple items and show expected and actual change given.
 * The CashRegister class has an unfortunate limitation: It is closely tied to the coin system in the United States and Canada. Research the system used in most of Europe. Your goal is to produce a cash register that works with euros and cents. Rather than designing another limited CashRegister implementation for the European market, you should design a separate Coin class and a cashRegister that can work with coins of all types.
 
  
